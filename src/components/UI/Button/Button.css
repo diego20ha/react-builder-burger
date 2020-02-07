@@ -1,0 +1,15 @@
+.Button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 0;
+    margin-right: 15px;
+    padding: 10px;
+    font-size: 14px;
+}
+.Success {
+    color: #5C9210;
+}
+.Danger {
+    color: #944317;
+}
